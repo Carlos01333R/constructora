@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/constructora/static/css/main.ff861014.css",
+    "main.js": "/constructora/static/js/main.8d7e27f6.js",
+    "static/js/453.f458cf27.chunk.js": "/constructora/static/js/453.f458cf27.chunk.js",
+    "index.html": "/constructora/index.html",
+    "main.ff861014.css.map": "/constructora/static/css/main.ff861014.css.map",
+    "main.8d7e27f6.js.map": "/constructora/static/js/main.8d7e27f6.js.map",
+    "453.f458cf27.chunk.js.map": "/constructora/static/js/453.f458cf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff861014.css",
+    "static/js/main.8d7e27f6.js"
+  ]
+}
